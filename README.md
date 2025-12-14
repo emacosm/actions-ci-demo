@@ -1,1 +1,1 @@
-# actions-ci-demo
+CI workflow enabled with GitHub Actions.
